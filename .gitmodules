@@ -1,0 +1,6 @@
+[submodule "CCAES-DOCS"]
+	path = CCAES-DOCS
+	url = https://github.com/covid19spaindocs/CCAES-DOCS
+[submodule "WHO-DOCS"]
+	path = WHO-DOCS
+	url = https://github.com/covid19spaindocs/WHO-DOCS
